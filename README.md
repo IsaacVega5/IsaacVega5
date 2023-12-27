@@ -12,9 +12,11 @@ I have knowledge in:
 |             | - Css          |                 |  
 |             | - Mysql        |                 |  
 |             | - Php          |                 |  
+|             | - Laravel      |                 |  
+|             | - Docker       |                 |  
+|             | - Jquery       |                 |  
 |             | - Bootstrap    |                 |  
 |             | - CodeIGniter  |                 |  
-|             | - Jquery       |                 |  
 
 ## 📞 Contact me
 
