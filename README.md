@@ -8,7 +8,7 @@ I have knowledge in:
 |  Web Design |  Web Creation  |   App creation   |  Other languages |  
 |-------------|----------------|------------------|------------------| 
 | - Figma     | - Html         | - React Native   |  - Java          |
-| - Adobe xd  | - JavaScript   | -                |  - Python        |
+| - Adobe xd  | - JavaScript   |                  |  - Python        |
 |             | - Css          |                  |                  |
 |             | - Mysql        |                  |                  |  
 |             | - Php          |                  |                  |  
